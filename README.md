@@ -73,7 +73,7 @@ Sensor integration and electronics experimentation.
 - **Email**: [98andrejevic@gmail.com](mailto:98andrejevic@gmail.com)
 - **LinkedIn**: https://www.linkedin.com/in/nikola-andrejevic/
 - **GitHub**: You're here! 👋
-- **Website**: [infinitycode.rs](infinitycode.rs)
+- **Website**: [infinitycode.rs](https://www.infinitycode.rs)
 
 ---
 

@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a full-stack developer passionate about building scala
 
 ## 💼 Current Work
 
-**Software Developer @ GEMINI SOFTWARE**
+**Middle Software Developer @ Akvelon, Inc**
 
 ## 🎯 Core Interests
 
@@ -54,13 +54,6 @@ Self-hosted media management with Docker containerization.
 Sensor integration and electronics experimentation.
 - **Projects**: Temperature monitoring, sensor networks, custom hardware
 
-## 📚 Learning Goals
-
-- [ ] Kubernetes & advanced orchestration
-- [ ] Cybersecurity certifications (Ethical Hacking, CEH)
-- [ ] Microservices architecture patterns
-- [ ] AI/LLM integration in applications
-- [ ] Advanced DevOps practices
 
 ## 🏆 Achievements
 
@@ -80,6 +73,7 @@ Sensor integration and electronics experimentation.
 - **Email**: [98andrejevic@gmail.com](mailto:98andrejevic@gmail.com)
 - **LinkedIn**: https://www.linkedin.com/in/nikola-andrejevic/
 - **GitHub**: You're here! 👋
+- **Website**: [infinitycode.rs](infinitycode.rs)
 
 ---
 
